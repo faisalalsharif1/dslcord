@@ -2,8 +2,8 @@
 <h3 align="center">A passionate full-stack developer from Saudi Arabia</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faisalalsharif0583&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/faisalalsharif0583?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=faisalalsharif1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/faisalalsharif1?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 ### 🌎 Connect With Me:
 <p align="left">
-  <a href="https://github.com/faisalalsharif0583" target="_blank">
+  <a href="https://github.com/faisalalsharif1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:shadow.dark2232@gmail.com" target="_blank">
@@ -72,8 +72,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faisalalsharif0583&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalalsharif0583&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=faisalalsharif1&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalalsharif1&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
@@ -86,13 +86,13 @@
 ---
 
 ### 🎵 Now Playing:
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/thefalcon_gamer)
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faisalalsharif0583&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=faisalalsharif1&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
