@@ -86,7 +86,7 @@
 ---
 
 ### 🎵 Now Playing:
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/thefalcon_gamer)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/3156pwrzdfjpaqvcfxvakb3b3nsi)
 
 ---
 
